@@ -14,6 +14,7 @@
 - 2022/07/18 [Safety Helmet Detection System Based on YOLOv7 algorithm](https://www.hackster.io/shahizat/safety-helmet-detection-system-based-on-yolov7-algorithm-3d4cef)
 - 2022/07/17 [YOLOv7 Breakdown](https://blog.roboflow.com/yolov7-breakdown/)
 - 2022/07/13 [How to Train YOLOv7 on a Custom Dataset](https://aigloballab.com/how-to-train-yolov7-on-a-custom-dataset/)
+- 2022/07/13 [YOLOv7 now Outperforms All Known Object Detectors!](https://towardsdev.com/yolov7-now-outperforms-all-known-object-detectors-fd7170e8542d)
 - 2022/07/12 [Academia Sinica’s YOLOv7 Outperforms All Object Detectors, Reduces Costs by 50%](https://syncedreview.com/2022/07/12/academia-sinicas-yolov7-outperforms-all-object-detectors-reduces-costs-by-50/)
 
 
