@@ -1,4 +1,4 @@
-## DL Examples
+## YOLO Examples
 
 
 ### Articles
@@ -14,7 +14,6 @@
 
 ### Open Source
 - [topics/gocv](https://github.com/topics/gocv) - repos using gocv 
-e [wimspaargaren/yolov5](https://github.com/wimspaargaren/yolov5) - Go implementation of the yolo v5 object detection system
 - [wimspaargaren/yolov3](https://github.com/wimspaargaren/yolov3) - Go implementation of the yolo v3 object detection system
 - [esimov/colidr](https://github.com/esimov/colidr) - Coherent Line Drawing implementation in Go
 - [openvino/openvino-api](https://github.com/openvino/openvino-api) 
