@@ -19,8 +19,8 @@ yolov5:
 	open https://github.com/ultralytics/yolov5/releases
 
 yolov7:
-	wget 
-	
+	wget https://raw.githubusercontent.com/AlexeyAB/darknet/master/cfg/yolov7-tiny.cfg
+	wget https://github.com/AlexeyAB/darknet/releases/download/yolov4/yolov7-tiny.weights
 
 install i:
 	pip install yolov5

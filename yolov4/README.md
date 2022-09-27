@@ -35,7 +35,7 @@
 - [xingwangsfu/caffe-yolo](https://github.com/xingwangsfu/caffe-yolo) - YOLO (Real-Time Object Detection) in caffe
 - [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) - YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported
 - [jhzhang19/sensor_fusion](https://github.com/jhzhang19/sensor_fusion) 
-
+- [Tianxiaomo/pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4)
 
 
 ### Papers
