@@ -11,6 +11,7 @@
 - 2022/08/04 [YOLOv7 TensorRT Benchmark from Cloud GPUs to Edge GPUs](https://www.seeedstudio.com/blog/2022/08/04/yolov7-tensorrt-benchmark-from-cloud-gpus-to-edge-gpus/)
 - 2022/08/04 [How to train and use a custom YOLOv7 model](https://blog.paperspace.com/yolov7/)
 - 2022/08/02 [YOLOv7 Object Detection Paper Explanation and Inference](https://learnopencv.com/yolov7-object-detection-paper-explanation-and-inference/)
+- 2022/07/25 [YOLOv5 vs YOLOv6 vs YOLOv7](https://www.learnwitharobot.com/p/yolov5-vs-yolov6-vs-yolov7)
 - 2022/07/18 [Safety Helmet Detection System Based on YOLOv7 algorithm](https://www.hackster.io/shahizat/safety-helmet-detection-system-based-on-yolov7-algorithm-3d4cef)
 - 2022/07/17 [YOLOv7 Breakdown](https://blog.roboflow.com/yolov7-breakdown/)
 - 2022/07/13 [How to Train YOLOv7 on a Custom Dataset](https://aigloballab.com/how-to-train-yolov7-on-a-custom-dataset/)
@@ -24,7 +25,7 @@
 
 
 ### Open Source
-- [https://github.com/instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Visual Data Preparation (VDP) is an open-source tool to seamlessly integrate Vision AI with the modern data stack
+- [instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Visual Data Preparation (VDP) is an open-source tool to seamlessly integrate Vision AI with the modern data stack
 - [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
 - [jinfagang/yolov7_d2](https://github.com/jinfagang/yolov7_d2) - (Earlier YOLOv7 not official one) YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 
 - [tkeldenich/How_to_use_YOLOv7_Tutorial](https://github.com/tkeldenich/How_to_use_YOLOv7_Tutorial)
@@ -32,6 +33,7 @@
 	- [play_with_mnn/tree/master/pj_mnn_det_yolov7](https://github.com/iwatake2222/play_with_mnn/tree/master/pj_mnn_det_yolov7)
 - [PINTO0309/PINTO_model_zoo](https://github.com/PINTO0309/PINTO_model_zoo)
 	- [PINTO_model_zoo/tree/main/307_YOLOv7](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/307_YOLOv7)
+- [ibaiGorordo/ONNX-YOLOv7-Object-Detection](https://github.com/ibaiGorordo/ONNX-YOLOv7-Object-Detection)
 
 
 ### Papers
