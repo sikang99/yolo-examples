@@ -3,19 +3,17 @@ usage:
 	@echo "usage: make [run]"
 
 run r:
-	go run main.go
+	go run yolov3.go
 
 run-tiny rt:
-	go run main.go -model=tiny
+	go run yolov3.go -model=tiny
 
 run-spp rs:
-	go run main.go -model=spp
+	go run yolov3.go -model=spp
 
 run-help rh:
-	go run main.go -h
+	go run yolov3.go -h
 
-run-python rp:
-	python3 detect.py
 
 git-update gu:
 	cd ..; make gu
