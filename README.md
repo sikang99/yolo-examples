@@ -23,5 +23,6 @@
 - [vcaesar/gcv](https://github.com/vcaesar/gcv) - Go robot OpenCV function
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation @vcaesar
 - [plutov/packagemain](https://github.com/plutov/packagemain) - Collection of materials for my Youtube Channel about Go
+- [PINTO0309/PINTO_model_zoo](https://github.com/PINTO0309/PINTO_model_zoo) - A repository for storing models that have been inter-converted between various frameworks. Supported frameworks are TensorFlow, PyTorch, ONNX, OpenVINO, TFJS, TFTRT, TensorFlowLite (Float32/16/INT8), EdgeTPU, CoreML.
 
 
