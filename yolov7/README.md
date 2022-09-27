@@ -4,6 +4,7 @@
 
 ### Articles
 - 2022/09/18 [Real-Time Object Detection Inference in Python with YOLOv7](https://stackabuse.com/real-time-object-detection-inference-in-python-with-yolov7/)
+- 2022/08/28 [YOLOv7- Real-time Object Detection at its Best](https://easydailycrypto.com/yolov7-real-time-object-detection-at-its-best/)
 - 2022/08/23 [How to Train a Custom Object Detection Model with YOLOv7?](https://www.analyticsvidhya.com/blog/2022/08/how-to-train-a-custom-object-detection-model-with-yolov7/)
 - 2022/08/22 [Fine Tuning YOLOv7 on Custom Dataset](https://learnopencv.com/fine-tuning-yolov7-on-custom-dataset/)
 - 2022/08/12 [YOLOv7: The Fastest Object Detection Algorithm (2022)](https://aiexpress.io/yolov7-the-fastest-object-detection-algorithm-2022/)
