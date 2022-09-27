@@ -1,0 +1,6 @@
+github.com/hybridgroup/mjpeg v0.0.0-20140228234708-4680f319790e/go.mod h1:eagM805MRKrioHYuU7iKLUyFPVKqVV6um5DAvCkUtXs=
+github.com/pascaldekloe/goe v0.1.0/go.mod h1:lzWF7FIEvWOWxwDKqyGYQf6ZUaNfKdP144TG7ZOy1lc=
+github.com/wimspaargaren/yolov5 v0.0.0-20220725223515-52334b51142c h1:eg9olLHTfj3NuBbWI3aOA+80O2aS7oL43qXEkhTmqqY=
+github.com/wimspaargaren/yolov5 v0.0.0-20220725223515-52334b51142c/go.mod h1:26aQzPioK568PkTJOmItzUa/OB1rL0C1wmwqPKRwO4c=
+gocv.io/x/gocv v0.31.0 h1:BHDtK8v+YPvoSPQTTiZB2fM/7BLg6511JqkruY2z6LQ=
+gocv.io/x/gocv v0.31.0/go.mod h1:oc6FvfYqfBp99p+yOEzs9tbYF9gOrAQSeL/dyIPefJU=

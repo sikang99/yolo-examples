@@ -41,6 +41,7 @@ func main() {
 	flag.Parse()
 
 	pg.yolov5Model = "../assets/models/yolov5s.onnx"
+	// pg.yolov5Model = "../assets/models/yolov7-tiny.onnx"
 	pg.cocoPath = "../assets/models/coco.names"
 
 	netconf := yolov5.DefaultConfig()
