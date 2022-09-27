@@ -5,9 +5,11 @@
 ### Articles
 - 2022/08/23 [How to Train a Custom Object Detection Model with YOLOv7?](https://www.analyticsvidhya.com/blog/2022/08/how-to-train-a-custom-object-detection-model-with-yolov7/)
 - 2022/08/22 [Fine Tuning YOLOv7 on Custom Dataset](https://learnopencv.com/fine-tuning-yolov7-on-custom-dataset/)
+- 2022/08/04 [How to train and use a custom YOLOv7 model](https://blog.paperspace.com/yolov7/)
 - 2022/08/02 [YOLOv7 Object Detection Paper Explanation and Inference](https://learnopencv.com/yolov7-object-detection-paper-explanation-and-inference/)
 - 2022/07/17 [YOLOv7 Breakdown](https://blog.roboflow.com/yolov7-breakdown/)
 - 2022/07/13 [How to Train YOLOv7 on a Custom Dataset](https://aigloballab.com/how-to-train-yolov7-on-a-custom-dataset/)
+- 2022/07/12 [Academia Sinica’s YOLOv7 Outperforms All Object Detectors, Reduces Costs by 50%](https://syncedreview.com/2022/07/12/academia-sinicas-yolov7-outperforms-all-object-detectors-reduces-costs-by-50/)
 
 
 ### Information
