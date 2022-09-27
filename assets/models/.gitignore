@@ -1,9 +1,9 @@
 # Models
 
-*.cfg
+#*.cfg
 *.weights
 
-*.py
+#*.py
 *.pth
 *.pt
 
