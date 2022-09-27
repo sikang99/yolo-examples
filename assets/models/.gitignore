@@ -1,0 +1,12 @@
+# Models
+
+*.cfg
+*.weights
+
+*.py
+*.pth
+*.pt
+
+*.pb
+
+*.onnx
