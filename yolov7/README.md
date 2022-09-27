@@ -30,6 +30,8 @@
 - [tkeldenich/How_to_use_YOLOv7_Tutorial](https://github.com/tkeldenich/How_to_use_YOLOv7_Tutorial)
 - [iwatake2222/play_with_mnn](https://github.com/iwatake2222/play_with_mnn) - Sample projects to use MNN. PoseNet, SemanticSegmentation, etc
 	- [play_with_mnn/tree/master/pj_mnn_det_yolov7](https://github.com/iwatake2222/play_with_mnn/tree/master/pj_mnn_det_yolov7)
+- [PINTO0309/PINTO_model_zoo](https://github.com/PINTO0309/PINTO_model_zoo)
+	- [PINTO_model_zoo/tree/main/307_YOLOv7](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/307_YOLOv7)
 
 
 ### Papers
