@@ -18,6 +18,9 @@ yolov4:
 yolov5:
 	open https://github.com/ultralytics/yolov5/releases
 
+yolov7:
+	wget 
+	
 
 install i:
 	pip install yolov5
