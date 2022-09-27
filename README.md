@@ -3,6 +3,7 @@
 
 ### Articles
 - 2022/04/02 [Solved: Yellow Small Circle Detection Using GoCV](https://solveforums.msomimaktaba.com/threads/solved-yellow-small-circle-detection-using-gocv.762542/)
+- 2022/02/23 [Best Practices for Neural Network Exports to ONNX](https://towardsdatascience.com/best-practices-for-neural-network-exports-to-onnx-99f23006c1d5)
 - 2021/08/26 [Go+GoCV로 SIFT 특징량 취득 앱과 YOLO를 사용한 물체 검출 앱을 만들어보세요](https://note.com/shift_tech/n/n35ee24567dbb)
 - 2020/06/08 [Mice Detection in Go Using OpenCV and MachineBox](https://blog.rockygray.com/posts/mouse-detective/)
 - 2018/01/19 [Face Detection in Go using OpenCV and MachineBox](https://pliutau.com/face-detection-in-go-machinebox-opencv/)
