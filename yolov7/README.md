@@ -22,6 +22,8 @@
 ### Information
 - [YOLOv7: The Most Powerful Object Detection Algorithm (2022 Guide)](https://viso.ai/deep-learning/yolov7-guide/)
 - [YOLOv4 vs. YOLOv7](https://demo.instill.tech/yolov4-vs-yolov7/)
+- [OLOv7: YOLO with Transformers and Instance Segmentation, with TensorRT acceleration!](https://aigloballab.com/yolov7-yolo-with-transformers-and-instance-segmentation-with-tensorrt-acceleration/)
+
 
 
 ### Open Source
@@ -34,7 +36,6 @@
 - [PINTO0309/PINTO_model_zoo](https://github.com/PINTO0309/PINTO_model_zoo)
 	- [PINTO_model_zoo/tree/main/307_YOLOv7](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/307_YOLOv7)
 - [ibaiGorordo/ONNX-YOLOv7-Object-Detection](https://github.com/ibaiGorordo/ONNX-YOLOv7-Object-Detection)
-
 
 ### Papers
 - 2022 [Video object tracking based on YOLOv7 and DeepSORT](https://www.arxiv-vanity.com/papers/2207.12202/)
