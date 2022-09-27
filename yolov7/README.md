@@ -18,7 +18,7 @@
 
 ### Information
 - [YOLOv7: The Most Powerful Object Detection Algorithm (2022 Guide)](https://viso.ai/deep-learning/yolov7-guide/)
-
+- [YOLOv4 vs. YOLOv7](https://demo.instill.tech/yolov4-vs-yolov7/)
 
 
 ### Open Source
