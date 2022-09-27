@@ -22,6 +22,7 @@
 
 
 ### Open Source
+- [https://github.com/instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Visual Data Preparation (VDP) is an open-source tool to seamlessly integrate Vision AI with the modern data stack
 - [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
 - [jinfagang/yolov7_d2](https://github.com/jinfagang/yolov7_d2) - (Earlier YOLOv7 not official one) YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 
 - [tkeldenich/How_to_use_YOLOv7_Tutorial](https://github.com/tkeldenich/How_to_use_YOLOv7_Tutorial)
