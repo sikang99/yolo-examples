@@ -16,3 +16,8 @@ run-test-3 rt3:
 	python3 camera-3.py
 run-test-4 rt4:
 	python3 camera-4.py
+
+
+
+git-update gu:
+	cd ..; make gu
