@@ -6,6 +6,7 @@
 - 2022/09/18 [Real-Time Object Detection Inference in Python with YOLOv7](https://stackabuse.com/real-time-object-detection-inference-in-python-with-yolov7/)
 - 2022/08/23 [How to Train a Custom Object Detection Model with YOLOv7?](https://www.analyticsvidhya.com/blog/2022/08/how-to-train-a-custom-object-detection-model-with-yolov7/)
 - 2022/08/22 [Fine Tuning YOLOv7 on Custom Dataset](https://learnopencv.com/fine-tuning-yolov7-on-custom-dataset/)
+- 2022/08/12 [YOLOv7: The Fastest Object Detection Algorithm (2022)](https://aiexpress.io/yolov7-the-fastest-object-detection-algorithm-2022/)
 - 2022/08/04 [YOLOv7 TensorRT Benchmark from Cloud GPUs to Edge GPUs](https://www.seeedstudio.com/blog/2022/08/04/yolov7-tensorrt-benchmark-from-cloud-gpus-to-edge-gpus/)
 - 2022/08/04 [How to train and use a custom YOLOv7 model](https://blog.paperspace.com/yolov7/)
 - 2022/08/02 [YOLOv7 Object Detection Paper Explanation and Inference](https://learnopencv.com/yolov7-object-detection-paper-explanation-and-inference/)
