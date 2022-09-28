@@ -36,6 +36,14 @@
 - [PINTO0309/PINTO_model_zoo](https://github.com/PINTO0309/PINTO_model_zoo)
 	- [PINTO_model_zoo/tree/main/307_YOLOv7](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/307_YOLOv7)
 - [ibaiGorordo/ONNX-YOLOv7-Object-Detection](https://github.com/ibaiGorordo/ONNX-YOLOv7-Object-Detection)
+- [RizwanMunawar/yolov7-object-tracking](https://github.com/RizwanMunawar/yolov7-object-tracking) - YOLOv7 Object Tracking Using PyTorch, OpenCV and Sort Tracking
+
+
+### PyPi
+- [yolov7](https://pypi.org/project/yolov7/) - Wrapper for incomming yolov7, 0.0.1
+- [yolov7-d2](https://pypi.org/project/yolov7-d2/) - YOLOv7D2 is a high-level training framework based on detectron2, 0.0.3
+
+
 
 ### Papers
 - 2022 [Video object tracking based on YOLOv7 and DeepSORT](https://www.arxiv-vanity.com/papers/2207.12202/)

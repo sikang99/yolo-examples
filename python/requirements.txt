@@ -4,6 +4,7 @@ setuptools
 
 ## -- Torch
 torch
+torchvision
 
 ## -- TensorFlow
 #tensorflow-metal
@@ -24,10 +25,18 @@ onnxruntime
 onnx-simplifier
 tf2onnx
 
+## -- Darknet
+darknet
+
 ## -- Nettron
 netron
 
 ## -- Download
 youtube-dl
 pafy
+
+## -- YOLO
+#yolov4
+#yolov5
+yolov7
 
