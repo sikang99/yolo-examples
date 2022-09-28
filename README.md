@@ -2,12 +2,13 @@
 
 
 ### Articles
+- 2022/04/04 [Introduction to the YOLO Family](https://pyimagesearch.com/2022/04/04/introduction-to-the-yolo-family/)
 - 2022/04/02 [Solved: Yellow Small Circle Detection Using GoCV](https://solveforums.msomimaktaba.com/threads/solved-yellow-small-circle-detection-using-gocv.762542/)
+- 2022/03/21 [Boost any Machine Learning model with ONNX conversion](https://towardsdatascience.com/boost-any-machine-learning-model-with-onnx-conversion-de34e1a38266)
 - 2022/02/23 [Best Practices for Neural Network Exports to ONNX](https://towardsdatascience.com/best-practices-for-neural-network-exports-to-onnx-99f23006c1d5)
 - 2021/08/26 [Go+GoCV로 SIFT 특징량 취득 앱과 YOLO를 사용한 물체 검출 앱을 만들어보세요](https://note.com/shift_tech/n/n35ee24567dbb)
 - 2020/06/08 [Mice Detection in Go Using OpenCV and MachineBox](https://blog.rockygray.com/posts/mouse-detective/)
 - 2018/01/19 [Face Detection in Go using OpenCV and MachineBox](https://pliutau.com/face-detection-in-go-machinebox-opencv/)
-- 2022/03/21 [Boost any Machine Learning model with ONNX conversion](https://towardsdatascience.com/boost-any-machine-learning-model-with-onnx-conversion-de34e1a38266)
 
 
 ### Information
@@ -28,3 +29,8 @@
 - [PINTO0309/PINTO_model_zoo](https://github.com/PINTO0309/PINTO_model_zoo) - A repository for storing models that have been inter-converted between various frameworks. Supported frameworks are TensorFlow, PyTorch, ONNX, OpenVINO, TFJS, TFTRT, TensorFlowLite (Float32/16/INT8), EdgeTPU, CoreML.
 - [Maratyszcza/NNPACK](https://github.com/Maratyszcza/NNPACK) - Acceleration package for neural networks on multi-core CPUs
 - [onnx/tensorflow-onnx](https://github.com/onnx/tensorflow-onnx) - Convert TensorFlow, Keras, Tensorflow.js and Tflite models to ONNX
+
+
+### Papers
+- 2022 [A Deep Learning Framework Performance Evaluation to Use YOLO in Nvidia Jetson Platform](https://www.mdpi.com/2076-3417/12/8/3734)
+
