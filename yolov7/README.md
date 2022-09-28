@@ -52,6 +52,9 @@
 - [itsyoboieltr/anpr-yolov7](https://huggingface.co/spaces/itsyoboieltr/anpr-yolov7) - Automatic Number Plate Recognition
 
 
+### Google Colab
+- [WongKinYiu/yolov7/](https://colab.research.google.com/github/WongKinYiu/yolov7/)
+
 
 ### Papers
 - 2022 [Video object tracking based on YOLOv7 and DeepSORT](https://www.arxiv-vanity.com/papers/2207.12202/)
