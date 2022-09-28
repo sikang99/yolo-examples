@@ -41,6 +41,10 @@
 - [RizwanMunawar/yolov7-object-tracking](https://github.com/RizwanMunawar/yolov7-object-tracking) - YOLOv7 Object Tracking Using PyTorch, OpenCV and Sort Tracking
 - [RizwanMunawar/yolov7-pose-estimation](https://github.com/RizwanMunawar/yolov7-pose-estimation) - YOLOv7 Pose estimation using OpenCV, PyTorch
 - [RizwanMunawar/yolov7-instance-segmentation](https://github.com/RizwanMunawar/yolov7-instance-segmentation) - YOLOv7 Instance Segmentation using OpenCV and PyTorch
+- [mikel-brostrom/Yolov7_StrongSORT_OSNet](https://github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet) - Real-time multi-camera multi-object tracker using YOLOv7 and StrongSORT with OSNet
+- [JackWoo0831/Yolov7-tracker](https://github.com/JackWoo0831/Yolov7-tracker) - About
+Yolo v7 and several Multi-Object Tracker(SORT, DeepSORT, ByteTrack, BoT-SORT, etc.) in VisDrone2019 Dataset. It uses a unified style and integrated tracker for easy embedding in your own projects.
+
 
 
 ### PyPi
