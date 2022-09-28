@@ -32,6 +32,11 @@
 - [onnx/tensorflow-onnx](https://github.com/onnx/tensorflow-onnx) - Convert TensorFlow, Keras, Tensorflow.js and Tflite models to ONNX
 
 
+### Open Source (Embedded)
+- [SiliconLabs/mltk](https://github.com/SiliconLabs/mltk) - A Python package with command-line utilities and scripts to aid the development of machine learning models for Silicon Lab's embedded platforms
+
+
+
 ### Papers
 - 2022 [A Deep Learning Framework Performance Evaluation to Use YOLO in Nvidia Jetson Platform](https://www.mdpi.com/2076-3417/12/8/3734)
 
