@@ -4,6 +4,7 @@
 
 ### Articles
 - 2022/09/18 [Train YOLOv7 Segmentation on Custom Data](https://medium.com/augmented-startups/train-yolov7-segmentation-on-custom-data-b91237bd2a29)
+- 2022/09/18 [Pose Estimation/Keypoint Detection with YOLOv7 in Python](https://stackabuse.com/pose-estimationkeypoint-detection-with-yolov7-in-python/)
 - 2022/09/18 [Real-Time Object Detection Inference in Python with YOLOv7](https://stackabuse.com/real-time-object-detection-inference-in-python-with-yolov7/)
 - 2022/08/28 [YOLOv7- Real-time Object Detection at its Best](https://easydailycrypto.com/yolov7-real-time-object-detection-at-its-best/)
 - 2022/08/23 [How to Train a Custom Object Detection Model with YOLOv7?](https://www.analyticsvidhya.com/blog/2022/08/how-to-train-a-custom-object-detection-model-with-yolov7/)
@@ -24,7 +25,7 @@
 - [YOLOv7: The Most Powerful Object Detection Algorithm (2022 Guide)](https://viso.ai/deep-learning/yolov7-guide/)
 - [YOLOv4 vs. YOLOv7](https://demo.instill.tech/yolov4-vs-yolov7/)
 - [YOLOv7: YOLO with Transformers and Instance Segmentation, with TensorRT acceleration!](https://aigloballab.com/yolov7-yolo-with-transformers-and-instance-segmentation-with-tensorrt-acceleration/)
-- [Pose Estimation/Keypoint Detection with YOLOv7 in Python](https://stackabuse.com/pose-estimationkeypoint-detection-with-yolov7-in-python/)
+
 
 
 ### Open Source
