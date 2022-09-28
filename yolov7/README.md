@@ -44,6 +44,11 @@
 - [yolov7-d2](https://pypi.org/project/yolov7-d2/) - YOLOv7D2 is a high-level training framework based on detectron2, 0.0.3
 
 
+### Hugging Face
+- [spaces/akhaliq/yolov7](https://huggingface.co/spaces/akhaliq/yolov7) - demo for WongKinYiu/yolov7 Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
+- [itsyoboieltr/anpr-yolov7](https://huggingface.co/spaces/itsyoboieltr/anpr-yolov7) - Automatic Number Plate Recognition
+
+
 
 ### Papers
 - 2022 [Video object tracking based on YOLOv7 and DeepSORT](https://www.arxiv-vanity.com/papers/2207.12202/)
