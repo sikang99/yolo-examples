@@ -1,6 +1,7 @@
 ## -- Base Tools
 pip
 setuptools
+opencv-python
 
 ## -- Torch
 torch
