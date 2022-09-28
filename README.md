@@ -13,6 +13,7 @@
 
 ### Information
 - [WebGPU — All of the cores, none of the canvas](https://surma.dev/things/webgpu/)
+- [ONNX to TF-Lite Model Conversion](https://siliconlabs.github.io/mltk/mltk/tutorials/onnx_to_tflite.html)
 
 
 ### Open Source
