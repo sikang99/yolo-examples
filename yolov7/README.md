@@ -25,7 +25,7 @@
 - [YOLOv7: The Most Powerful Object Detection Algorithm (2022 Guide)](https://viso.ai/deep-learning/yolov7-guide/)
 - [YOLOv4 vs. YOLOv7](https://demo.instill.tech/yolov4-vs-yolov7/)
 - [YOLOv7: YOLO with Transformers and Instance Segmentation, with TensorRT acceleration!](https://aigloballab.com/yolov7-yolo-with-transformers-and-instance-segmentation-with-tensorrt-acceleration/)
-
+- [github for yolov7](https://github.com/search?q=yolov7)
 
 
 ### Open Source
