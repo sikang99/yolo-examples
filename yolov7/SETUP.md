@@ -12,6 +12,7 @@
 - [Anaconda](https://www.anaconda.com/)
 	- [conda](https://docs.conda.io/projects/conda/en/latest/#)
 	- [miniconda](https://docs.conda.io/en/latest/miniconda.html)
+- Apple [Metal](https://developer.apple.com/metal/)
 
 
 
