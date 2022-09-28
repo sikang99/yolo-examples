@@ -9,3 +9,7 @@
 ### Open Source
 - [wimspaargaren/yolov5](https://github.com/wimspaargaren/yolov5) - Go implementation of the yolo v5 object detection system
 - [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
+
+
+### Open Source (Golang)
+- [LdDl/go-darknet](https://github.com/LdDl/go-darknet) - Go bindings for Darknet (YOLO v4 / v7-tiny / v3)

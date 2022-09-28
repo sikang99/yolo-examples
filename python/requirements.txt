@@ -1,8 +1,33 @@
+## -- Base Tools
+pip
+setuptools
 
+## -- Torch
+torch
 
+## -- TensorFlow
+#tensorflow-metal
+#tensorflow-macos
+#tensorflow_datasets
+
+## -- CoreML
+coremltools
+
+## -- OpenVINO
+#openvino-dev
+#openvino2tensorflow
+
+## -- ONNX packages
+onnx
+onnx_tf
 onnxruntime
+onnx-simplifier
 tf2onnx
 
+## -- Nettron
+netron
+
+## -- Download
 youtube-dl
 pafy
 
