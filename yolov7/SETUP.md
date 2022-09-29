@@ -36,3 +36,10 @@ $ conda activate tf
 2.10.0
 (tf) $ conda deactivate
 ```
+
+
+```sh
+$ conda create --name=base "python==3.10" pandas numpy scipy h5py matplotlib jupyterlab
+$ coda activate
+(base) $ pip install -U pip
+```

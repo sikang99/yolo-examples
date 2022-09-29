@@ -57,6 +57,11 @@ Yolo v7 and several Multi-Object Tracker(SORT, DeepSORT, ByteTrack, BoT-SORT, et
 - [DataXujing/YOLOv7](https://github.com/DataXujing/YOLOv7) - TensorRT
 - [UNeedCryDear/yolov7-opencv-dnn-cpp](https://github.com/UNeedCryDear/yolov7-opencv-dnn-cpp) - OpenCV YOLOv7, YOLOv5
 - [AarohiSingla/YOLOv7-on-custom-Dataset](https://github.com/AarohiSingla/YOLOv7-on-custom-Dataset)
+- [augmentedstartups/OfficialYOLOv7Course](https://github.com/augmentedstartups/OfficialYOLOv7Course) - Learn YOLOv7 Object Detection - Tutorials
+- [muratali016/Yolov7-License-Plate-Recognition-Program](https://github.com/muratali016/Yolov7-License-Plate-Recognition-Program)
+- [DoganK01/YOLOV7-OBJECT-COUNTER](https://github.com/DoganK01/YOLOV7-OBJECT-COUNTER) - Object counting with Yolov7
+- [Qengineering/YoloV7-ncnn-Jetson-Nano](https://github.com/Qengineering/YoloV7-ncnn-Jetson-Nano) - YoloV7 for a Jetson Nano using ncnn
+
 
 
 ### PyPi

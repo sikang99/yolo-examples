@@ -1,2 +1,6 @@
-openvino-dev
+rawpy
+numpy
 opencv-python
+openvino-arm
+open3d
+
