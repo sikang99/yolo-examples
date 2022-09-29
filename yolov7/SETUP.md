@@ -3,6 +3,7 @@
 
 
 ### Articles
+- 2022/05/18 [Running PyTorch on the M1 GPU](https://sebastianraschka.com/blog/2022/pytorch-m1-gpu.html)
 - 2022/05/18 [Introducing Accelerated PyTorch Training on Mac](https://pytorch.org/blog/introducing-accelerated-pytorch-training-on-mac/)
 - 2022/05/06 [New Release: Anaconda Distribution Now Supporting M1](https://www.anaconda.com/blog/new-release-anaconda-distribution-now-supporting-m1)
 
@@ -13,6 +14,7 @@
 	- [conda](https://docs.conda.io/projects/conda/en/latest/#)
 	- [miniconda](https://docs.conda.io/en/latest/miniconda.html)
 - Apple [Metal](https://developer.apple.com/metal/)
+- [Accelerated PyTorch Training on Mac](https://huggingface.co/docs/accelerate/usage_guides/mps)
 
 
 
