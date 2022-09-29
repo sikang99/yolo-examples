@@ -23,7 +23,7 @@
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 
-### Scripts
+### Install for Tensorflow
 ```sh
 $ conda create -n tf python=3.9 --yes
 $ conda activate tf
