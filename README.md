@@ -42,3 +42,11 @@
 ### Papers
 - 2022 [A Deep Learning Framework Performance Evaluation to Use YOLO in Nvidia Jetson Platform](https://www.mdpi.com/2076-3417/12/8/3734)
 
+
+### Books
+- [Dive into Deep Learning](https://d2l.ai/d2l-en.pdf)
+
+
+
+
+
