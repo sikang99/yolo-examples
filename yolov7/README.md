@@ -1,8 +1,12 @@
 ## YOLOv7
 
+> Real-time object detectors utilized on a CPU are usually based on MobileNet, ShuffleNet, or GhostNet. 
+> Another popular real-time object detector for GPU is ResNet, DarkNet, or DLA, 
+> and then the CSPNet technique is used to improve the architecture.
 
 
 ### Articles
+- 2022/09/18 [YOLOv7_OpenVINO](https://cppdig.com/c/this-repository-will-demostrate-how-to-deploy-a-offical-yolov-pretrained-model-with-openvino-runtime-api)
 - 2022/09/18 [Train YOLOv7 Segmentation on Custom Data](https://medium.com/augmented-startups/train-yolov7-segmentation-on-custom-data-b91237bd2a29)
 - 2022/09/18 [Pose Estimation/Keypoint Detection with YOLOv7 in Python](https://stackabuse.com/pose-estimationkeypoint-detection-with-yolov7-in-python/)
 - 2022/09/18 [Real-Time Object Detection Inference in Python with YOLOv7](https://stackabuse.com/real-time-object-detection-inference-in-python-with-yolov7/)
@@ -14,11 +18,13 @@
 - 2022/08/04 [How to train and use a custom YOLOv7 model](https://blog.paperspace.com/yolov7/)
 - 2022/08/02 [YOLOv7 Object Detection Paper Explanation and Inference](https://learnopencv.com/yolov7-object-detection-paper-explanation-and-inference/)
 - 2022/07/25 [YOLOv5 vs YOLOv6 vs YOLOv7](https://www.learnwitharobot.com/p/yolov5-vs-yolov6-vs-yolov7)
+- 2022/07/22 [AI Researchers From Taiwan Develop YOLO-v7, Which Sets New State of The Art For Real-Time Object Detectors](https://www.marktechpost.com/2022/07/12/ai-researchers-from-taiwan-develop-yolo-v7-which-sets-new-state-of-the-art-for-real-time-object-detectors/)
 - 2022/07/18 [Safety Helmet Detection System Based on YOLOv7 algorithm](https://www.hackster.io/shahizat/safety-helmet-detection-system-based-on-yolov7-algorithm-3d4cef)
 - 2022/07/17 [YOLOv7 Breakdown](https://blog.roboflow.com/yolov7-breakdown/)
 - 2022/07/13 [How to Train YOLOv7 on a Custom Dataset](https://aigloballab.com/how-to-train-yolov7-on-a-custom-dataset/)
 - 2022/07/13 [YOLOv7 now Outperforms All Known Object Detectors!](https://towardsdev.com/yolov7-now-outperforms-all-known-object-detectors-fd7170e8542d)
 - 2022/07/12 [Academia Sinica’s YOLOv7 Outperforms All Object Detectors, Reduces Costs by 50%](https://syncedreview.com/2022/07/12/academia-sinicas-yolov7-outperforms-all-object-detectors-reduces-costs-by-50/)
+- 2022/07/06 [YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://paperswithcode.com/paper/yolov7-trainable-bag-of-freebies-sets-new)
 
 
 ### Information
@@ -44,7 +50,13 @@
 - [mikel-brostrom/Yolov7_StrongSORT_OSNet](https://github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet) - Real-time multi-camera multi-object tracker using YOLOv7 and StrongSORT with OSNet
 - [JackWoo0831/Yolov7-tracker](https://github.com/JackWoo0831/Yolov7-tracker) - About
 Yolo v7 and several Multi-Object Tracker(SORT, DeepSORT, ByteTrack, BoT-SORT, etc.) in VisDrone2019 Dataset. It uses a unified style and integrated tracker for easy embedding in your own projects.
-
+- [deshwalmahesh/yolov7-deepsort-tracking](https://github.com/deshwalmahesh/yolov7-deepsort-tracking) - Modular and ready to deploy code to detect and track videos using YOLO-v7 and DeepSORT
+- [Michael-OvO/Yolov7-Flask](https://github.com/Michael-OvO/Yolov7-Flask) - A Beautiful Flask Web API for Yolov7 (and custom) models
+- [QIANXUNZDL123/tensorrtx-yolov7](https://github.com/QIANXUNZDL123/tensorrtx-yolov7) - yolov7-tensorrtx
+- [NirAharon/BoT-SORT](https://github.com/NirAharon/BoT-SORT) - BoT-SORT: Robust Associations Multi-Pedestrian Tracking
+- [DataXujing/YOLOv7](https://github.com/DataXujing/YOLOv7) - TensorRT
+- [UNeedCryDear/yolov7-opencv-dnn-cpp](https://github.com/UNeedCryDear/yolov7-opencv-dnn-cpp) - OpenCV YOLOv7, YOLOv5
+- [AarohiSingla/YOLOv7-on-custom-Dataset](https://github.com/AarohiSingla/YOLOv7-on-custom-Dataset)
 
 
 ### PyPi
