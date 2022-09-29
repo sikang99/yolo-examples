@@ -18,4 +18,5 @@
 
 ### Open Source
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
