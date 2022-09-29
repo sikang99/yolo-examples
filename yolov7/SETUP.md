@@ -22,3 +22,16 @@
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
+
+### Scripts
+```sh
+$ conda create -n tf python=3.9 --yes
+$ conda activate tf
+(tf) $ pip install tensorflow-macos
+(tf) $ pip install tensotflow-metal
+(tf) $ python
+>>> import tensorflow as tf
+>>> print(tf.__version__)
+2.10.0
+(tf) $ conda deactivate
+```

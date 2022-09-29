@@ -1,0 +1,15 @@
+## -- Prerequite
+#conda create -n tf python=3.9
+#conda install -c apple tensorflow-deps
+
+
+## -- Tensorflow
+tensorflow-macos
+tensorflow-metal
+
+
+## -- Misc
+pygame
+box2d-py
+opencv-python
+tensorflow_probability
