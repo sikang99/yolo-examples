@@ -1,5 +1,7 @@
 ## Setting Up (Apple M1/M2 Macbook)
 
+### Terminology
+- MPS: Metal Performance Shaders
 
 
 ### Articles
@@ -16,8 +18,8 @@
 	- [conda](https://docs.conda.io/projects/conda/en/latest/#)
 	- [miniconda](https://docs.conda.io/en/latest/miniconda.html)
 - Apple [Metal](https://developer.apple.com/metal/)
-- [Accelerated PyTorch Training on Mac](https://huggingface.co/docs/accelerate/usage_guides/mps)
-
+- PyTorch: [MPS Backend](https://pytorch.org/docs/master/notes/mps.html)
+	- [Accelerated PyTorch Training on Mac](https://huggingface.co/docs/accelerate/usage_guides/mps)
 
 
 ### Open Source
