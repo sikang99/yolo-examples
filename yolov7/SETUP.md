@@ -7,6 +7,7 @@
 - 2022/05/18 [Running PyTorch on the M1 GPU](https://sebastianraschka.com/blog/2022/pytorch-m1-gpu.html)
 - 2022/05/18 [Introducing Accelerated PyTorch Training on Mac](https://pytorch.org/blog/introducing-accelerated-pytorch-training-on-mac/)
 - 2022/05/06 [New Release: Anaconda Distribution Now Supporting M1](https://www.anaconda.com/blog/new-release-anaconda-distribution-now-supporting-m1)
+- 2022/04/22 [Deep Learning on the M1 Pro with Apple Silicon](https://wandb.ai/tcapelle/apple_m1_pro/reports/Deep-Learning-on-the-M1-Pro-with-Apple-Silicon---VmlldzoxMjQ0NjY3)
 
 
 
@@ -40,6 +41,19 @@ $ conda activate tf
 
 ```sh
 $ conda create --name=base "python==3.10" pandas numpy scipy h5py matplotlib jupyterlab
+$ conda env list
 $ coda activate
 (base) $ pip install -U pip
+```
+
+```sh
+$ conda create -n torch python==3.9 --yes
+$ coda activate torch
+(base) $ pip install -U pip torch torchvision torchaudio
+```
+
+```sh
+$ conda create -n tflow python==3.9 --yes
+$ coda activate tflow
+(base) $ pip install -U pip tensorflow-macos tensorflow-metal
 ```
