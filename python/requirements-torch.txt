@@ -1,0 +1,11 @@
+## -- Prerequite
+#conda create -n torch python=3.9 --yes
+
+## -- PyTorch
+torch
+torchvision
+torchaudio
+
+## -- Misc
+opencv-python
+numpy

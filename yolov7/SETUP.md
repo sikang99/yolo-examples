@@ -5,6 +5,7 @@
 
 
 ### Articles
+- 2022/09/13 [Locally sourced: you can now run Stable Diffusion AI art generation on your M1 Mac](https://cdm.link/2022/09/run-stable-diffusion-ai-art-on-your-m1-mac/)
 - 2022/06/06 [Deploying Transformers on the Apple Neural Engine](https://machinelearning.apple.com/research/neural-engine-transformers)
 - 2022/05/18 [Running PyTorch on the M1 GPU](https://sebastianraschka.com/blog/2022/pytorch-m1-gpu.html)
 - 2022/05/18 [Introducing Accelerated PyTorch Training on Mac](https://pytorch.org/blog/introducing-accelerated-pytorch-training-on-mac/)
@@ -27,25 +28,12 @@
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 
-### Install for Tensorflow
+### Install for Run Environments (PyTorch, Tensorflow, YOLOv7, OpenVINO, ONNX)
 ```sh
-$ conda create -n tf python=3.9 --yes
-$ conda activate tf
-(tf) $ pip install tensorflow-macos
-(tf) $ pip install tensotflow-metal
-(tf) $ python
->>> import tensorflow as tf
->>> print(tf.__version__)
-2.10.0
-(tf) $ conda deactivate
-```
-
-
-```sh
-$ conda create --name=base "python==3.10" pandas numpy scipy h5py matplotlib jupyterlab
+$ conda create --name=base python==3.10 
 $ conda env list
 $ coda activate
-(base) $ pip install -U pip
+(base) $ pip install -U pip pandas numpy scipy h5py scikit-learn matplotlib tqdm jupyterlab
 ```
 
 ```sh
@@ -58,4 +46,22 @@ $ coda activate torch
 $ conda create -n tflow python==3.9 --yes
 $ coda activate tflow
 (base) $ pip install -U pip tensorflow-macos tensorflow-metal
+```
+
+```sh
+$ conda create -n yolov7 python==3.9 --yes
+$ coda activate yolov7
+(base) $ pip install -U pip yolov5 yolov7
+```
+
+```sh
+$ conda create -n ovino python==3.9 --yes
+$ coda activate ovino
+(base) $ pip install -U pip opencv-python openvino-arm
+```
+
+```sh
+$ conda create -n onnx python==3.9 --yes
+$ coda activate onnx
+(base) $ pip install -U pip onnxruntime
 ```

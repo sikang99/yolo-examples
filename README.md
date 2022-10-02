@@ -1,6 +1,10 @@
 ## YOLO Examples
 
 
+### Terminoloy
+- ORT : ONNX Runtime
+
+
 ### Articles
 - 2022/04/04 [Introduction to the YOLO Family](https://pyimagesearch.com/2022/04/04/introduction-to-the-yolo-family/)
 - 2022/04/02 [Solved: Yellow Small Circle Detection Using GoCV](https://solveforums.msomimaktaba.com/threads/solved-yellow-small-circle-detection-using-gocv.762542/)
