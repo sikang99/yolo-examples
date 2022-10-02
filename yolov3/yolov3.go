@@ -43,18 +43,19 @@ func main() {
 	flag.BoolVar(&pg.fcuda, "cuda", pg.fcuda, "use CUDA backend")
 	flag.Parse()
 
+	assetDir := "/Users/stoney/assets/models/"
 	switch pg.mtype {
 	case "tiny":
-		pg.yolov3WeightsPath = "../assets/models/yolov3-tiny.weights"
-		pg.yolov3ConfigPath = "../assets/models/yolov3-tiny.cfg"
+		pg.yolov3WeightsPath = assetDir + "yolov3-tiny.weights"
+		pg.yolov3ConfigPath = assetDir + "yolov3-tiny.cfg"
 	case "spp": // with spatial pyramid pooling
-		pg.yolov3WeightsPath = "../assets/models/yolov3-spp.weights"
-		pg.yolov3ConfigPath = "../assets/models/yolov3-spp.cfg"
+		pg.yolov3WeightsPath = assetDir + "yolov3-spp.weights"
+		pg.yolov3ConfigPath = assetDir + "yolov3-spp.cfg"
 	default:
-		pg.yolov3WeightsPath = "../assets/models/yolov3.weights"
-		pg.yolov3ConfigPath = "../assets/models/yolov3.cfg"
+		pg.yolov3WeightsPath = assetDir + "yolov3.weights"
+		pg.yolov3ConfigPath = assetDir + "yolov3.cfg"
 	}
-	pg.cocoNamesPath = "../assets/models/coco.names"
+	pg.cocoNamesPath = assetDir + "coco.names"
 
 	netconf := yolov3.DefaultConfig()
 	if pg.fcuda {

@@ -52,15 +52,17 @@ var (
 	blueColor  = color.RGBA{0, 0, 255, 0}
 )
 
+const assetDir = "/Users/stoney/assets/models/"
+
 var pg = &Program{
 	name:   "MothCam Pang Cast, (c)TeamGRIT: YOLOv4",
 	url:    "wss://localhost:8277/pang/ws/pub?channel=c40hp6epjh65aeq6ne50",
 	label:  "objects detected",
 	method: "yolov4",
 	dnn: DNN{
-		model:  "../assets/models/yolov4-tiny.weights",
-		config: "../assets/models/yolov4-tiny.cfg",
-		coco:   "../assets/models/coco.names",
+		model:  assetDir + "yolov4-tiny.weights",
+		config: assetDir + "yolov4-tiny.cfg",
+		coco:   assetDir + "coco.names",
 		// backend: gocv.NetBackendDefault,
 		// target:  gocv.NetTargetCPU,
 		backend: gocv.NetBackendVKCOM,

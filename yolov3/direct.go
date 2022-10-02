@@ -23,8 +23,9 @@ func main() {
 	img := gocv.NewMat()
 	defer img.Close()
 
+	assetDir := "/Users/stoney/assets/models/"
 	// open DNN object tracking model
-	net := gocv.ReadNet("../assets/models/yolov3.weights", "../assets/models/yolov3.cfg")
+	net := gocv.ReadNet(assetDir+"yolov3.weights", assetDir+"yolov3.cfg")
 	if net.Empty() {
 		log.Println("Error reading network model")
 		return

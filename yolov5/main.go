@@ -40,9 +40,10 @@ func main() {
 	flag.BoolVar(&pg.fcuda, "cuda", pg.fcuda, "use CUDA backend")
 	flag.Parse()
 
-	// pg.yolov5Model = "../assets/models/yolov5s.onnx"
-	pg.yolov5Model = "../assets/models/yolov7-tiny.onnx"
-	pg.cocoPath = "../assets/models/coco.names"
+	assetDir := "/Users/stoney/assets/models/"
+	// pg.yolov5Model = assetDir + "yolov5s.onnx"
+	pg.yolov5Model = assetDir + "yolov7-tiny.onnx"
+	pg.cocoPath = assetDir + "coco.names"
 
 	netconf := yolov5.DefaultConfig()
 	if pg.fcuda {
