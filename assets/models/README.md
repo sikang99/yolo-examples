@@ -31,3 +31,5 @@
 
 ### Models 
 - [YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/) 
+- [SparseZoo](https://sparsezoo.neuralmagic.com/)
+
