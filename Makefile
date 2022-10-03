@@ -22,7 +22,7 @@ download-yolov5 d5:
 
 #--------------------------------------------------------------------------------
 USER=stoney
-BUILD=0.0.2.0
+BUILD=0.0.3.0
 git g:
 	@echo "make (git:g) [update|store]"
 git-reset gr:
