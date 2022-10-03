@@ -32,4 +32,7 @@
 ### Models 
 - [YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/) 
 - [SparseZoo](https://sparsezoo.neuralmagic.com/)
+- 2022/04/05 [13 Free Resources and Model Zoos for Deep Learning and Computer Vision Models](https://deci.ai/blog/model-zoos-deep-learning-computer-vision/)
+
+
 
