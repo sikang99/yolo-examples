@@ -17,3 +17,5 @@
 - [cansik/mediapipe-silicon](https://github.com/cansik/mediapipe-silicon) - Prebuilt Google MediaPipe packages for arm64
 - [AssemblyAI-Examples/mediapipe-python](https://github.com/AssemblyAI-Examples/mediapipe-python)
 - [jiuqiant/mediapipe_python_aarch64](https://github.com/jiuqiant/mediapipe_python_aarch64) - MediaPipe Python on aarch64 Ubuntu 20.04
+- [Kazuhito00/mediapipe-python-sample](https://github.com/Kazuhito00/mediapipe-python-sample)
+    - [Kazuhito00/cvfpscalc](https://github.com/Kazuhito00/cvfpscalc)
