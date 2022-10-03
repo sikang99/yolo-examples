@@ -19,6 +19,10 @@
 - [WebGPU — All of the cores, none of the canvas](https://surma.dev/things/webgpu/)
 - [ONNX to TF-Lite Model Conversion](https://siliconlabs.github.io/mltk/mltk/tutorials/onnx_to_tflite.html)
 
+### Blogs
+- [AI Engineering/Tensorflow](https://da2so.tistory.com/category/AI%20Engineering/TensorFlow) - da2so
+
+
 
 ### Open Source
 - [topics/gocv](https://github.com/topics/gocv) - repos using gocv 

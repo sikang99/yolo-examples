@@ -6,6 +6,9 @@ handsModule = mediapipe.solutions.hands
  
 capture = cv2.VideoCapture(0)
  
+frameWidth = capture.get(cv2.CAP_PROP_FRAME_WIDTH)
+frameHeight = capture.get(cv2.CAP_PROP_FRAME_HEIGHT)
+ 
 with handsModule.Hands(
     static_image_mode=False, 
     min_detection_confidence=0.7, 
@@ -14,14 +17,19 @@ with handsModule.Hands(
  
     while (True):
         ret, frame = capture.read()
+ 
         results = hands.process(cv2.cvtColor(frame, cv2.COLOR_BGR2RGB))
  
         if results.multi_hand_landmarks != None:
             for handLandmarks in results.multi_hand_landmarks:
-                drawingModule.draw_landmarks(frame, handLandmarks, handsModule.HAND_CONNECTIONS)
+                for point in handsModule.HandLandmark:
  
-        cv2.imshow('Test hand', frame)
+                    normalizedLandmark = handLandmarks.landmark[point]
+                    pixelCoordinatesLandmark = drawingModule._normalized_to_pixel_coordinates(normalizedLandmark.x, normalizedLandmark.y, frameWidth, frameHeight)
  
+                    cv2.circle(frame, pixelCoordinatesLandmark, 5, (0, 255, 0), -1)
+ 
+        cv2.imshow('Test hand #2', frame)
         if cv2.waitKey(1) == 27:
             break
  
