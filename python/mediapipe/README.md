@@ -12,3 +12,4 @@
 ### Open Source
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [cansik/mediapipe-silicon](https://github.com/cansik/mediapipe-silicon) - Prebuilt Google MediaPipe packages for arm64
+- [AssemblyAI-Examples/mediapipe-python](https://github.com/AssemblyAI-Examples/mediapipe-python)
