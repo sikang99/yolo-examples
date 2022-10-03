@@ -7,6 +7,7 @@
 
 ### Information
 - [MediaPipe](https://mediapipe.dev/) - Live ML anywhere
+    - [viz.mediapipe.dev/](https://viz.mediapipe.dev/)
 - [PyPi for mediapipe](https://pypi.org/search/?q=mediapipe)
 
 
