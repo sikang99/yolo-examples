@@ -7,7 +7,9 @@ mp_drawing = mp.solutions.drawing_utils
 # For static images:
 IMAGE_FILES = []
 with mp_face_detection.FaceDetection(
-    model_selection=1, min_detection_confidence=0.5) as face_detection:
+    model_selection=1, 
+    min_detection_confidence=0.5) as face_detection:
+
   for idx, file in enumerate(IMAGE_FILES):
     image = cv2.imread(file)
     # Convert the BGR image to RGB and process it with MediaPipe Face Detection.
@@ -27,7 +29,9 @@ with mp_face_detection.FaceDetection(
 # For webcam input:
 cap = cv2.VideoCapture(0)
 with mp_face_detection.FaceDetection(
-    model_selection=0, min_detection_confidence=0.5) as face_detection:
+    model_selection=0, 
+    min_detection_confidence=0.5) as face_detection:
+
   while cap.isOpened():
     success, image = cap.read()
     if not success:

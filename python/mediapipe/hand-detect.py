@@ -37,5 +37,4 @@ with mp_hands.Hands(
         cv2.imshow('MediaPipe: Hands', image)
         if cv2.waitKey(1) == ord('q'):
             break
- 
 cap.release()
