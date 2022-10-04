@@ -2,4 +2,4 @@
 
 
 
-- [ubermenschjo/dotfiles/.fonts](https://github.com/ubermenschjo/dotfiles/tree/master/.fonts)
+- [ubermenschjo/dotfiles/.fonts](https://github.com/ubermenschjo/dotfiles/tree/master/.fonts) - Hangul fonts
