@@ -1,6 +1,8 @@
 rawpy
 numpy
 opencv-python
+opencv-contrib-python
 openvino-arm
 open3d
+open3d-admin
 
