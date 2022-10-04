@@ -1,8 +1,11 @@
 ## MediaPipe
 
+> TensforFlow Lite
 
 ### Articles
 - 2022/09/10 [Model download from GCS](https://github.com/google/mediapipe/releases/tag/v0.8.11)
+- 2022/05/06 [MediaPipe FaceMesh for Emotion Recognition using Flutter](https://blog.hoomano.com/mediapipe-facemesh-for-emotion-recognition-using-flutter-c3ad52ff2613)
+- 2020/05/20 [MediaPipe with Custom tflite Model](https://blog.gofynd.com/mediapipe-with-custom-tflite-model-d3ea0427b3c1)
 
 
 ### Information
