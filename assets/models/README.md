@@ -40,6 +40,7 @@
 - [Model Zoo](https://modelzoo.co/)
 - [Discover AI models & code to catalyze your projects](https://www.catalyzex.com/)
 - [Jetson Zoo](https://www.elinux.org/Jetson_Zoo)
+- [TensorFlow Hub](https://tfhub.dev/)
 
 
 ### Open Source (Model)
