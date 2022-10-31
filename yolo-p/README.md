@@ -2,7 +2,7 @@
 
 
 ### Information
-
+- [Kaggle YOLOP](https://www.kaggle.com/code/ggwporz/yolop) 
 
 
 ### Open Source
