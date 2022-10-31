@@ -8,6 +8,7 @@
 
 ### Information
 - [Kaggle YOLOP](https://www.kaggle.com/code/ggwporz/yolop) 
+- [PyTorch YOLOP](https://pytorch.org/hub/hustvl_yolop/) - YOLOP pretrained on the BDD100K dataset
 
 
 ### Open Source
