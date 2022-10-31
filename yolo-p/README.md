@@ -12,7 +12,7 @@
 
 
 ### Open Source
-- [https://github.com/hustvl/YOLOP](https://github.com/hustvl/YOLOP) - You Only Look Once for Panopitic Driving Perception
+- [hustvl/YOLOP](https://github.com/hustvl/YOLOP) - You Only Look Once for Panopitic Driving Perception
 - [ink/Kazuhito00/YOLOP-ONNX-Video-Inference-Sample](https://github.com/Kazuhito00/YOLOP-ONNX-Video-Inference-Sample) - YOLOPのPythonでのONNX推論サンプル
 
 
