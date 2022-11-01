@@ -15,3 +15,5 @@
 - [owulveryck/onnx-go](https://github.com/owulveryck/onnx-go) - onnx-go gives the ability to import a pre-trained neural network within Go without being linked to a framework or library
 - [c3sr/go-onnxruntime](https://github.com/c3sr/go-onnxruntime)
 - [espnet/espnet_onnx](https://github.com/espnet/espnet_onnx) - Onnx wrapper for espnet infrernce model
+- [hybridgroup/gocv](https://github.com/hybridgroup/gocv) 
+
